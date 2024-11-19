@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://graceabigira.github.io/graceabigira_github_io_zp532_13.txt
+Sitemap: https://graceabigira.github.io/graceabigira_github_io_zp532_18.txt
+Sitemap: https://graceabigira.github.io/graceabigira_github_io_zp532_22.txt
+Sitemap: https://graceabigira.github.io/graceabigira_github_io_zp532_3.txt
+Sitemap: https://graceabigira.github.io/graceabigira_github_io_zp532_8.txt
